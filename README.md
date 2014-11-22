@@ -12,7 +12,7 @@ jnucard
 
 >userid string 学号
 >userpw string 密码
->key key值
+>key string key值
 
 ###返回
 
