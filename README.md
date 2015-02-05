@@ -72,8 +72,7 @@ jnucard
 		type: "必修",
 		score: "79.0",
 		credit_num: "3.00"
-	},
-	
+	},	
 	],
 		final_score: "本学期平均学分绩点:x.xx"
 	},
